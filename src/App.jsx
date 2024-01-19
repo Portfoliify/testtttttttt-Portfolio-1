@@ -20,7 +20,7 @@ const App = () => {
   //Content
 
       const tagline = 'Available for freelance work';
-      const name = 'thushar';
+      const name = 'testtttttttt';
       const email = 'sample@gmail.com';
       const heroLine1 = 'independent';
       const heroLine2 = 'full-stack';
@@ -34,7 +34,7 @@ const App = () => {
       const project4 = ['AI snake', 'https://example.com', null, 'pic4.png'];
       const project5 = ['Personal Portfolio', 'https://example.com/', null, 'pic5.png'];
       const project6 = ['Movie finder', 'https://example.com/', null, 'pic6.png'];
-      const aboutLine1= "Hey! i'm Thushar";
+      const aboutLine1= "Hey! i'm Mohan";
       const aboutLine2= 'a nineteen years old';
       const aboutLine3= 'ful-stack developer. Currently';
       const aboutLine4= 'based in Chennai, India';
